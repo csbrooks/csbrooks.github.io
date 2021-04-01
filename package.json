@@ -40,6 +40,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b main",
     "start": "gatsby develop -o",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
