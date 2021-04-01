@@ -12,17 +12,13 @@ export const Skills = () => {
     <Wrapper id="about">
       <SkillsWrapper as={Container}>
         <Thumbnail>
-          <img src={dev} alt="I’m John and I’m a Backend & Devops engineer!" />
+          <img src={dev} alt="Skills Image" />
         </Thumbnail>
         <Details theme={theme}>
           <h1>More about me</h1>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-            industry’s standard dummy.
+            Here is a list of my skills
           </p>
-          <Button as={AnchorLink} href="#contact">
-            Hire me
-          </Button>
         </Details>
       </SkillsWrapper>
     </Wrapper>
