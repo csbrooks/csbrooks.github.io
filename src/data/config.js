@@ -14,8 +14,8 @@ module.exports = {
     google: 'https://plus.google.com/',
   },
   googleAnalyticsID: 'G-XTB8YM54E4',
-  themeColor: '#6b63ff',
-  backgroundColor: '#6b63ff',
+  themeColor: '#7CD421',
+  backgroundColor: '#7CD421',
   social: {
     facebook: 'appId',
     twitter: '@csbrooks612',
