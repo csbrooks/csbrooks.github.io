@@ -32,3 +32,4 @@ module.exports = {
   },
   foundingDate: '2021',
 };
+

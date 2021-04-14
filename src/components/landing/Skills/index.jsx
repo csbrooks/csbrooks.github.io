@@ -15,9 +15,13 @@ export const Skills = () => {
           <img src={dev} alt="Skills Image" />
         </Thumbnail>
         <Details theme={theme}>
-          <h1>More about me</h1>
+          <h1>My skils</h1>
           <p>
-            Here is a list of my skills
+            .Net<br/>
+            MSSQL<br/>
+            RESTful APIs<br/>
+            git<br/>
+            Agile
           </p>
         </Details>
       </SkillsWrapper>
